@@ -1,0 +1,5 @@
+# Required Python packages
+# Use with pip install -r requirements.txt
+numpy
+matplotlib
+h5py
