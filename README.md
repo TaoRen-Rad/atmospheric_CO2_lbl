@@ -31,8 +31,12 @@ command(Python):    python main.py
 
 # Citation
 
-@article{xrz22,
-title={A machine learning based line-by-line absorption coefficient model for the application of atmospheric carbon dioxide remote sensing},
-author={Xie, Fengxin and Ren, Tao  and Zhao, Ziqing and Zhao, Changying},
-journal = {submitted to JQSRT for review},
-year={2022}}
+@article{xrz23,
+  title={A machine learning based line-by-line absorption coefficient model for the application of atmospheric carbon dioxide remote sensing},
+  author={Xie, Fengxin and Ren, Tao and Zhao, Ziqing and Zhao, Changying},
+  journal={Journal of Quantitative Spectroscopy and Radiative Transfer},
+  volume={296},
+  pages={108441},
+  year={2023},
+  publisher={Elsevier}
+}
